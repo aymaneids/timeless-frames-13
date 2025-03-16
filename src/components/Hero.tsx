@@ -5,7 +5,7 @@ import { ChevronRight, ArrowRight } from 'lucide-react';
 
 // Array of hero images
 const heroImages = [
-  '/photo-1513836279014-a89f7a76ae86',
+  'https://img.freepik.com/premium-photo/woman-with-sleek-straight-hair-parted-middle-posing-against-minimalist-background-highlight-simplicity-elegance-her-style_1229213-60889.jpg',
   '/photo-1472396961693-142e6e269027',
   '/photo-1465146344425-f00d5f5c8f07',
 ];
